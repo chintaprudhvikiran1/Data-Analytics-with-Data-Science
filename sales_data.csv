@@ -1,0 +1,101 @@
+Order ID,Date,Product,Category,Quantity,Price per Unit,Customer,City,Total Price
+1001,11-01-2023,Headphones,Home Goods,2,5.75,Bob,Chicago,11.5
+1002,31-03-2023,Coffee Mug,Office Supplies,3,12.5,David,Boston,37.5
+1003,07-01-2023,Headphones,Home Goods,1,49.99,Bob,Seattle,49.99
+1004,29-01-2023,Phone Case,Home Goods,1,15.99,Alice,Chicago,15.99
+1005,13-03-2023,Charger,Electronics,5,22.99,Alice,Dallas,114.95
+1006,22-02-2023,Lamp,Home Goods,3,12.5,Bob,Chicago,37.5
+1007,01-03-2023,Lamp,Home Goods,2,49.99,Ella,Dallas,99.98
+1008,02-01-2023,Headphones,Electronics,1,10.99,Bob,Seattle,10.99
+1009,05-02-2023,Notebook,Office Supplies,2,49.99,Ella,Boston,99.98
+1010,13-02-2023,Notebook,Electronics,5,49.99,Charlie,Chicago,249.95
+1011,14-02-2023,Lamp,Home Goods,5,15.99,Bob,Dallas,79.95
+1012,26-02-2023,Lamp,Electronics,1,10.99,Ella,Chicago,10.99
+1013,22-02-2023,Lamp,Home Goods,2,10.99,David,New York,21.98
+1014,24-02-2023,Lamp,Office Supplies,2,49.99,Alice,Dallas,99.98
+1015,09-02-2023,Charger,Office Supplies,3,15.99,Bob,Boston,47.97
+1016,22-03-2023,Lamp,Electronics,3,15.99,Charlie,Dallas,47.97
+1017,10-01-2023,Lamp,Electronics,5,10.99,Frank,Boston,54.95
+1018,13-01-2023,Coffee Mug,Electronics,4,22.99,Ella,Dallas,91.96
+1019,30-03-2023,Lamp,Office Supplies,2,49.99,David,Dallas,99.98
+1020,02-03-2023,Phone Case,Office Supplies,1,5.75,Charlie,New York,5.75
+1021,28-03-2023,Phone Case,Home Goods,3,5.75,Alice,Boston,17.25
+1022,02-03-2023,Headphones,Electronics,4,12.5,Alice,New York,50
+1023,08-03-2023,Phone Case,Home Goods,3,12.5,Bob,New York,37.5
+1024,07-04-2023,Coffee Mug,Office Supplies,4,10.99,David,Boston,43.96
+1025,31-03-2023,Lamp,Electronics,3,12.5,Charlie,Dallas,37.5
+1026,18-03-2023,Coffee Mug,Office Supplies,4,22.99,Charlie,Boston,91.96
+1027,08-02-2023,Notebook,Electronics,4,15.99,Ella,Boston,63.96
+1028,12-02-2023,Phone Case,Home Goods,1,12.5,Ella,Seattle,12.5
+1029,25-01-2023,Notebook,Home Goods,5,10.99,David,Austin,54.95
+1030,18-02-2023,Charger,Office Supplies,1,12.5,Ella,Austin,12.5
+1031,08-04-2023,Coffee Mug,Office Supplies,4,22.99,Alice,San Diego,91.96
+1032,04-03-2023,Charger,Electronics,3,5.75,Ella,Boston,17.25
+1033,01-02-2023,Lamp,Electronics,3,10.99,Bob,Dallas,32.97
+1034,12-03-2023,Phone Case,Electronics,3,10.99,David,Chicago,32.97
+1035,31-01-2023,Notebook,Home Goods,3,5.75,Frank,San Diego,17.25
+1036,17-01-2023,Headphones,Office Supplies,2,10.99,Alice,Dallas,21.98
+1037,09-01-2023,Phone Case,Electronics,1,49.99,Alice,Chicago,49.99
+1038,17-01-2023,Notebook,Electronics,1,5.75,Alice,San Diego,5.75
+1039,24-01-2023,Charger,Electronics,1,5.75,Bob,Chicago,5.75
+1040,15-02-2023,Phone Case,Home Goods,5,10.99,Ella,Dallas,54.95
+1041,03-01-2023,Phone Case,Electronics,3,12.5,Alice,Seattle,37.5
+1042,02-01-2023,Lamp,Home Goods,4,15.99,Bob,Boston,63.96
+1043,29-03-2023,Headphones,Office Supplies,2,22.99,Frank,Chicago,45.98
+1044,04-04-2023,Phone Case,Electronics,3,12.5,David,Chicago,37.5
+1045,31-03-2023,Notebook,Electronics,1,12.5,Charlie,Boston,12.5
+1046,01-02-2023,Lamp,Office Supplies,2,15.99,David,San Diego,31.98
+1047,22-02-2023,Coffee Mug,Office Supplies,1,10.99,Bob,New York,10.99
+1048,26-02-2023,Charger,Electronics,2,49.99,Charlie,San Diego,99.98
+1049,17-01-2023,Charger,Office Supplies,5,49.99,Alice,Austin,249.95
+1050,22-01-2023,Notebook,Electronics,4,12.5,Frank,San Diego,50
+1051,25-03-2023,Charger,Office Supplies,4,5.75,Ella,New York,23
+1052,22-02-2023,Headphones,Electronics,4,12.5,Charlie,Austin,50
+1053,15-02-2023,Notebook,Electronics,5,10.99,Alice,San Diego,54.95
+1054,30-03-2023,Phone Case,Home Goods,5,10.99,Alice,Austin,54.95
+1055,23-02-2023,Lamp,Office Supplies,2,22.99,Bob,San Diego,45.98
+1056,13-02-2023,Lamp,Office Supplies,2,12.5,Bob,Seattle,25
+1057,24-02-2023,Coffee Mug,Home Goods,5,15.99,Frank,Dallas,79.95
+1058,13-01-2023,Charger,Electronics,5,10.99,David,San Diego,54.95
+1059,08-01-2023,Phone Case,Office Supplies,4,12.5,Charlie,Austin,50
+1060,02-01-2023,Phone Case,Electronics,2,10.99,Alice,Boston,21.98
+1061,13-01-2023,Phone Case,Office Supplies,2,15.99,Bob,Boston,31.98
+1062,04-01-2023,Phone Case,Home Goods,1,49.99,Bob,Chicago,49.99
+1063,28-01-2023,Notebook,Electronics,2,5.75,David,San Diego,11.5
+1064,20-01-2023,Phone Case,Home Goods,2,5.75,Bob,Seattle,11.5
+1065,29-01-2023,Notebook,Home Goods,1,5.75,Charlie,New York,5.75
+1066,13-01-2023,Coffee Mug,Home Goods,3,12.5,Charlie,San Diego,37.5
+1067,11-01-2023,Coffee Mug,Office Supplies,1,49.99,Bob,Chicago,49.99
+1068,26-02-2023,Phone Case,Office Supplies,5,10.99,Alice,Chicago,54.95
+1069,09-04-2023,Notebook,Electronics,2,12.5,Charlie,Seattle,25
+1070,23-02-2023,Headphones,Home Goods,4,49.99,Alice,Chicago,199.96
+1071,18-02-2023,Charger,Electronics,3,5.75,Charlie,San Diego,17.25
+1072,25-02-2023,Notebook,Electronics,1,5.75,Frank,Austin,5.75
+1073,08-04-2023,Charger,Electronics,5,5.75,Bob,Austin,28.75
+1074,08-04-2023,Notebook,Home Goods,2,15.99,Frank,San Diego,31.98
+1075,25-02-2023,Lamp,Home Goods,3,10.99,David,San Diego,32.97
+1076,18-03-2023,Lamp,Office Supplies,5,15.99,Alice,Boston,79.95
+1077,26-01-2023,Phone Case,Home Goods,2,22.99,David,Chicago,45.98
+1078,01-02-2023,Lamp,Office Supplies,3,15.99,Charlie,Austin,47.97
+1079,04-04-2023,Headphones,Home Goods,3,12.5,David,Seattle,37.5
+1080,03-04-2023,Coffee Mug,Home Goods,1,10.99,Charlie,Dallas,10.99
+1081,05-04-2023,Lamp,Electronics,3,5.75,Charlie,Chicago,17.25
+1082,20-01-2023,Coffee Mug,Home Goods,2,5.75,Alice,Chicago,11.5
+1083,24-03-2023,Charger,Office Supplies,3,10.99,Ella,San Diego,32.97
+1084,03-04-2023,Lamp,Electronics,1,22.99,Frank,New York,22.99
+1085,07-04-2023,Charger,Electronics,2,12.5,Ella,Seattle,25
+1086,24-02-2023,Phone Case,Office Supplies,5,5.75,Ella,Dallas,28.75
+1087,04-01-2023,Charger,Home Goods,3,22.99,Charlie,Chicago,68.97
+1088,15-02-2023,Phone Case,Home Goods,3,10.99,Bob,New York,32.97
+1089,11-01-2023,Headphones,Office Supplies,5,15.99,Charlie,Dallas,79.95
+1090,27-03-2023,Charger,Office Supplies,5,10.99,David,Chicago,54.95
+1091,27-03-2023,Lamp,Home Goods,4,22.99,Bob,Chicago,91.96
+1092,31-03-2023,Phone Case,Office Supplies,4,10.99,Bob,Dallas,43.96
+1093,05-02-2023,Headphones,Home Goods,1,49.99,Alice,Dallas,49.99
+1094,07-04-2023,Coffee Mug,Home Goods,3,15.99,Ella,Boston,47.97
+1095,10-04-2023,Charger,Electronics,3,10.99,Ella,San Diego,32.97
+1096,01-04-2023,Phone Case,Office Supplies,2,22.99,Charlie,Seattle,45.98
+1097,10-01-2023,Phone Case,Electronics,5,12.5,David,San Diego,62.5
+1098,22-02-2023,Headphones,Electronics,3,22.99,Bob,Seattle,68.97
+1099,15-01-2023,Lamp,Home Goods,4,5.75,Alice,Boston,23
+1100,28-01-2023,Phone Case,Electronics,5,12.5,Ella,New York,62.5
